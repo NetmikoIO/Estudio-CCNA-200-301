@@ -112,4 +112,4 @@ Sw-Floor-1(config)# banner motd #Authorized Access Only#
 > Este mensaje aparecerá en todos los intentos posteriores, hasta que el mensaje sea eliminado.
 
 
-Solo valor académico.
+Solo valor académico. Prueba
