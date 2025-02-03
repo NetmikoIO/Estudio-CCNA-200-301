@@ -1,4 +1,6 @@
-<img src="imagenes/cisco.svg" width="100">
+
+<img src="Imagenes/cisco.svg" width="100">
+
 
 
 # Cisco IOS Switch configuración
