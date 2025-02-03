@@ -22,7 +22,6 @@ He abierto una **discusión en GitHub** para este repositorio, donde puedes opin
 - ⚙️ **Ejercicios prácticos** para practicar configuraciones y conceptos.
 - 📄 **Documentos** adicionales para profundizar en cada tema del examen.
 
-[![Ir a la Wiki](https://img.shields.io/badge/Ir%20a%20la%20Wiki-blue?style=for-the-badge)](https://github.com/NetmikoIO/Estudio-CCNA-200-301/wiki)
 
 ## Cómo contribuir 🤝
 
