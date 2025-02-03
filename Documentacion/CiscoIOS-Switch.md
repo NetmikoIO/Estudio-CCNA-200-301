@@ -1,6 +1,7 @@
+![[cisco.svg|100]]
 # Cisco IOS Switch configuración
 
-## Configuración básica de dispositivos
+## Configuración básica de dispositivo
 
 ### 1. Nombre de los dispositivos
 
@@ -59,6 +60,10 @@ Sw-Floor-1#
 
 > Con `enable secret password` asignamos una contraseña.
 >
+
+<br><br>
+
+
 
 ---
 
