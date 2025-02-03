@@ -123,3 +123,4 @@ Sw-Floor-1(config)# banner motd #Authorized Access Only#
 
 
 Solo valor académico. Prueba definitiva
+Créditos de este repositorio a CISCO. Puedes seguir mas información como esta y más información en www.netacad.com
