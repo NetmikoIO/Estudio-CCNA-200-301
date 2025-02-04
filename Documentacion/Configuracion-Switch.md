@@ -122,5 +122,5 @@ Sw-Floor-1(config)# banner motd #Authorized Access Only#
 > Este mensaje aparecerá en todos los intentos posteriores, hasta que el mensaje sea eliminado.
 
 
-Solo valor académico. Pruebas en desarrollo maximo<br>
+Solo valor académico. Pruebas en desarrollo <br>
 Créditos de este repositorio a CISCO. Puedes seguir mas información como esta y más información en www.netacad.com
