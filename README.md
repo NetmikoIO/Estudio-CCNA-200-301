@@ -4,6 +4,7 @@ Este repositorio contiene una recopilación personal de material de estudio y re
 
 ## Archivos de Apuntes
 - [Configuración del Switch](Documentacion/Configuracion-Switch.md) - Aprende a configurar un switch de manera efectiva.
+- [Sheet CISCO CLI](Documentacion/Sheet-IOS-Cisco-CLI.md) - Comandos mas utilizados CISCO CLI
 
 ## Descripción 📝
 
