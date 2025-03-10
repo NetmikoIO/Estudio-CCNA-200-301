@@ -238,3 +238,9 @@ R1# show ip route
 ```
 R1(config)# ip route red máscara ip-sig-salto
 > Ejemplo: R2(config)# ip route 10.0.1.0 255.255.255.0 10.0.2.1
+```
+---
+
+# Créditos  
+📌 **Profesor de Redes Locales:** *Pablo Esteban*  
+📧 **Correo:** [pablo.profe.tic@gmail.com](mailto:pablo.profe.tic@gmail.com) 
